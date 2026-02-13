@@ -1,4 +1,10 @@
 {
-  "latestVersionCode": 5,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v1.40/app-debug.apk"
+  "latestVersionCode": 6,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v1.50/app-debug.apk",
+  "changelog": [
+    "• Update sistem Login",
+    "• Perbaikan bug pada scanner keyboard tembus saat scan",
+    "• Redesign menu Pembagian Stock In",
+    "• Manifest instant menjadi 5 detik agar data akurat"
+  ]
 }
