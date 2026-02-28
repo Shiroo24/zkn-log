@@ -1,10 +1,8 @@
 {
-  "latestVersionCode": 7,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v1.60/app-debug.apk",
+  "latestVersionCode": 8,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v1.70/app-debug.apk",
   "changelog": [
-    "• Update menu pick permintaan AMP sync with spreadsheet",
-    "• Redesign Accent color",
-    "• Floating sync information",
-    "• Manifest instant menjadi 3 detik"
+    "• Update menu pick permintaan AMP dengan notifikasi",
+    "• Menu baru custom pick untuk membuat pickinglist custom"
   ]
 }
