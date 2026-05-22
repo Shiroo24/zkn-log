@@ -1,10 +1,7 @@
 {
-  "latestVersionCode": 10,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v1.90/app-debug.apk",
+  "latestVersionCode": 11,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.00/app-debug.apk",
   "changelog": [
-    "• Update sync dengan jezpro v2",
-    "• Update Interface overview",
-    "• Penambahan ekspedisi instant",
-    "• Picking List AMP dihapus"
+    "• Minor Updates"
   ]
 }
