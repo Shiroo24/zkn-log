@@ -1,11 +1,8 @@
 {
-  "latestVersionCode": 12,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.10/app-debug.apk",
+  "latestVersionCode": 13,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.20/app-debug.apk",
   "changelog": [
-    "1. Menu RTO, DISPLAY AREA",
-    "2. Multiple devices for Pending manifest",
-    "3. Using Realtime method for RTO, DISPLAY PICK",
-    "4. New Icon menu",
-    "5. Shared components modal dialog"
+    "1. Perbaikan logika Alokasi",
+    "2. Fixed Upsert Insert RTO"
   ]
 }
