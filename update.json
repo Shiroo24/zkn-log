@@ -1,13 +1,12 @@
 {
-  "latestVersionCode": 14,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.21/app-debug.apk",
+  "latestVersionCode": 15,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.22/app-debug.apk",
   "changelog": [
-    "!!! YANG DROP PAKET TOLONG UPDATE !!!",
-    "1. Personal Assesment",
-    "2. Pending manifest instant fix",
+    "!!! PERBAIKAN RTO !!!",
+    "1. All Export berformat xlsx bukan csv",
+    "2. Perbaikan Done Online",
     "3. Data email untuk login",
-    "4. Tombol Copy bin dialog RTO",
-    "5. Sync master data dipercepat",
-    "6. Drop paket pake nama, fix foto hilang"
+    "4. Menghapus menu yang tidak berguna",
+    "5. Perbaikan lag/frame"
   ]
 }
