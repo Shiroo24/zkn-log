@@ -3,10 +3,11 @@
   "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.22/app-debug.apk",
   "changelog": [
     "!!! PERBAIKAN RTO !!!",
-    "1. All Export berformat xlsx bukan csv",
-    "2. Perbaikan Done Online",
-    "3. Data email untuk login",
-    "4. Menghapus menu yang tidak berguna",
-    "5. Perbaikan lag/frame"
+    "All Export berformat xlsx bukan csv",
+    "Perbaikan Done Online",
+    "Data email untuk login",
+    "Menghapus menu yang tidak berguna",
+    "Perbaikan lag/frame",
+    "Menghapus ketentuan foto instant menjadi opsional"
   ]
 }
