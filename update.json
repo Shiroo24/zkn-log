@@ -1,13 +1,9 @@
 {
-  "latestVersionCode": 15,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.22/app-debug.apk",
+  "latestVersionCode": 16,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.23/app-debug.apk",
   "changelog": [
-    "!!! PERBAIKAN RTO !!!",
-    "All Export berformat xlsx bukan csv",
-    "Perbaikan Done Online",
-    "Data email untuk login",
-    "Menghapus menu yang tidak berguna",
-    "Perbaikan lag/frame",
-    "Menghapus ketentuan foto instant menjadi opsional"
+    "!!! PENAMBAHAN RESI JNT JY,JZ !!!",
+    "Fitur Shift Updates untuk delegasi",
+    "Perbaikan Edge to Edge Android 14 up"
   ]
 }
