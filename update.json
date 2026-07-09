@@ -1,9 +1,7 @@
 {
-  "latestVersionCode": 16,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.23/app-debug.apk",
+  "latestVersionCode": 17,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.30/app-debug.apk",
   "changelog": [
-    "!!! PENAMBAHAN RESI JNT JY,JZ !!!",
-    "Fitur Shift Updates untuk delegasi",
-    "Perbaikan Edge to Edge Android 14 up"
+    "!!! PERBAIKAN !!!"
   ]
 }
