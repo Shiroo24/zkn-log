@@ -1,8 +1,7 @@
 {
-  "latestVersionCode": 19,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.50/app-debug.apk",
+  "latestVersionCode": 20,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.60/app-debug.apk",
   "changelog": [
-    "Perbaikan Display",
-    "Refill Store"
+    "Resi SiCepat"
   ]
 }
