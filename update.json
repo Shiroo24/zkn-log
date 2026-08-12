@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 21,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.70/app-debug.apk",
+  "latestVersionCode": 22,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.80/app-debug.apk",
   "changelog": [
     "Delete pick instant",
-    "Fix Done Online"
+    "Menu Retur dan Instock"
   ]
 }
