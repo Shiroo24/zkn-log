@@ -2,7 +2,8 @@
   "latestVersionCode": 23,
   "url": "https://github.com/Shiroo24/zkn-log/releases/download/v2.90/app-debug.apk",
   "changelog": [
-    "Delete pick instant",
-    "Menu Retur dan Instock"
+    "Penambahan Hub Data Stock",
+    "Copy Sku Data Stock",
+    "Delay ScannerLIB"
   ]
 }
