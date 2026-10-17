@@ -2,9 +2,7 @@
   "latestVersionCode": 24,
   "url": "https://github.com/Shiroo24/zkn-log/releases/download/v3.00/app-debug.apk",
   "changelog": [
-    "Penambahan Hub Data Stock",
-    "Copy Sku Data Stock",
-    "Fix Done Online",
-    "ScannerLIB Fix"
+    "Batch manifest",
+    "Overview"
   ]
 }
