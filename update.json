@@ -1,8 +1,10 @@
 {
-  "latestVersionCode": 24,
-  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v3.00/app-debug.apk",
+  "latestVersionCode": 25,
+  "url": "https://github.com/Shiroo24/zkn-log/releases/download/v3.01/app-debug.apk",
   "changelog": [
     "Batch manifest",
-    "Overview"
+    "Overview",
+    "Fix Login Manifest",
+    "Mempercepat Delay ScannerLib"
   ]
 }
